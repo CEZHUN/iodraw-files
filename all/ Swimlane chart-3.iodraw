@@ -42,7 +42,7 @@
         <mxCell id="emiT89qxse29FiAcxryH-17" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-14">
           <mxGeometry x="260" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-10" value="TRİYAJ" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
+        <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="120" width="1242" height="120" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="emiT89qxse29FiAcxryH-10" source="emiT89qxse29FiAcxryH-12" target="emiT89qxse29FiAcxryH-13">
