@@ -34,11 +34,6 @@
         <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="120" width="1240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="emiT89qxse29FiAcxryH-10" source="emiT89qxse29FiAcxryH-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-12" value="Hasta Kaydı Açılır" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-10">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
@@ -48,7 +43,7 @@
         <mxCell id="emiT89qxse29FiAcxryH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="emiT89qxse29FiAcxryH-6" source="emiT89qxse29FiAcxryH-8" target="emiT89qxse29FiAcxryH-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-6">
+        <mxCell id="emiT89qxse29FiAcxryH-8" value="Triyaj Değerlendirmesi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-6">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-9" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-6">
