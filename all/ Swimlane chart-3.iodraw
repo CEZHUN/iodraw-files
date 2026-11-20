@@ -36,7 +36,7 @@
         <mxCell id="emiT89qxse29FiAcxryH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="emiT89qxse29FiAcxryH-14" source="emiT89qxse29FiAcxryH-16" target="emiT89qxse29FiAcxryH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-14">
+        <mxCell id="emiT89qxse29FiAcxryH-16" value="Acil Servise Başvuru" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-14">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-17" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-14">
