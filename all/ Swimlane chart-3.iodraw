@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="1262" height="1035" as="geometry" />
+          <mxGeometry x="120" y="120" width="1262" height="954" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -101,7 +101,7 @@
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="&lt;h5&gt;YATIŞ TEDAVİ&lt;/h5&gt;" style="swimlane;html=1;startSize=20;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="720" width="1242" height="315" as="geometry">
+          <mxGeometry x="20" y="720" width="1242" height="234" as="geometry">
             <mxRectangle x="20" y="900" width="592" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
