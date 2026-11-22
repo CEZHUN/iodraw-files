@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.7.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1050" dy="609" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e7d9d9" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="870" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#e7d9d9" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="128" width="1260" height="1029.5" as="geometry" />
+          <mxGeometry x="120" y="128" width="1260" height="864.5" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -31,60 +31,8 @@
         <mxCell id="emiT89qxse29FiAcxryH-16" value="Acil Servise Başvuru" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="emiT89qxse29FiAcxryH-14" vertex="1">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-6" value="TRİYAJ" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="261" width="1240" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="emiT89qxse29FiAcxryH-6" source="emiT89qxse29FiAcxryH-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260.0000000000002" y="60.000000000000114" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-6" source="emiT89qxse29FiAcxryH-8" target="emiT89qxse29FiAcxryH-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-8" value="&lt;div&gt;&lt;div&gt;Aciliyet Durumuna Göre&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="emiT89qxse29FiAcxryH-6" vertex="1">
-          <mxGeometry x="120" y="18" width="105" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-6" source="emiT89qxse29FiAcxryH-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502.5" y="58.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-29" value="&lt;div&gt;&lt;div&gt;Öncelik Düzeyinin Belirlenmesi&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="emiT89qxse29FiAcxryH-6" vertex="1">
-          <mxGeometry x="305" y="18" width="105" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="emiT89qxse29FiAcxryH-6" vertex="1">
-          <mxGeometry y="-74" width="1240" height="155" as="geometry" />
-        </mxCell>
-        <mxCell id="emiT89qxse29FiAcxryH-12" value="Hasta 18 Yaşından Büyük mü?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;direction=west;" parent="emiT89qxse29FiAcxryH-10" vertex="1">
-          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-4" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="emiT89qxse29FiAcxryH-10" target="HtgFwNyW6ljBgoX_-HjL-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="54" as="sourcePoint" />
-            <mxPoint x="247" y="31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-5" value="Çocuk Acil Kaydı" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="emiT89qxse29FiAcxryH-10">
-          <mxGeometry x="238" y="13" width="78" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-6" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="emiT89qxse29FiAcxryH-10" target="HtgFwNyW6ljBgoX_-HjL-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="66" as="sourcePoint" />
-            <mxPoint x="238" y="76" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-7" value="Erişkin Acil Kaydı" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="emiT89qxse29FiAcxryH-10">
-          <mxGeometry x="238" y="58" width="86" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;hayır&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="emiT89qxse29FiAcxryH-10">
-          <mxGeometry x="193" y="22" width="45" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;evet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="emiT89qxse29FiAcxryH-10">
-          <mxGeometry x="193" y="63" width="45" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-18" value="İZLEM VE TEDAVİ" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="426" width="1240" height="165.5" as="geometry" />
+          <mxGeometry x="20" y="261" width="1240" height="165.5" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="emiT89qxse29FiAcxryH-18" source="emiT89qxse29FiAcxryH-20" target="emiT89qxse29FiAcxryH-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,7 +53,7 @@
           <mxGeometry x="306.25" y="52.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;LABARATUVAR&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;GÖRÜNTÜLEME&lt;/font&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="591.5" width="1240" height="120" as="geometry" />
+          <mxGeometry x="20" y="426.5" width="1240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="emiT89qxse29FiAcxryH-1" source="emiT89qxse29FiAcxryH-3" target="emiT89qxse29FiAcxryH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="ACİL SERVİS&amp;nbsp;&lt;div&gt;HEKİMİ&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="711.5" width="1240" height="120" as="geometry" />
+          <mxGeometry x="20" y="546.5" width="1240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="dNxyNK7c78bLwvsdeMH5-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +80,7 @@
           <mxGeometry x="260" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="&lt;h5&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;YATIŞ-TABURCU&lt;/font&gt;&lt;/h5&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="831.5" width="1240" height="198" as="geometry">
+          <mxGeometry x="20" y="666.5" width="1240" height="198" as="geometry">
             <mxRectangle x="20" y="900" width="592" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
