@@ -5,12 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="128" width="1260" height="1008.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="90" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="120" y="128" width="1260" height="888.5" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-28" target="dNxyNK7c78bLwvsdeMH5-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,13 +18,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-16" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1240" height="120" as="geometry">
-            <mxRectangle x="20" width="1242" height="27" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="120" width="1240" height="120" as="geometry" />
+          <mxGeometry x="20" width="1240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HtgFwNyW6ljBgoX_-HjL-4" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-10" target="HtgFwNyW6ljBgoX_-HjL-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,7 +46,7 @@
           <mxGeometry x="193" y="63" width="45" height="27" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-6" value="TRİYAJ" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="240" width="1240" height="165" as="geometry" />
+          <mxGeometry x="20" y="120" width="1240" height="165" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="emiT89qxse29FiAcxryH-6" source="emiT89qxse29FiAcxryH-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -78,7 +68,7 @@
           <mxGeometry x="305" y="18" width="105" height="72" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-18" value="İZLEM VE TEDAVİ" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="405" width="1240" height="165.5" as="geometry" />
+          <mxGeometry x="20" y="285" width="1240" height="165.5" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="emiT89qxse29FiAcxryH-18" source="emiT89qxse29FiAcxryH-20" target="emiT89qxse29FiAcxryH-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -99,7 +89,7 @@
           <mxGeometry x="306.25" y="52.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;LABARATUVAR&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;GÖRÜNTÜLEME&lt;/font&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="570.5" width="1240" height="120" as="geometry" />
+          <mxGeometry x="20" y="450.5" width="1240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="emiT89qxse29FiAcxryH-1" source="emiT89qxse29FiAcxryH-3" target="emiT89qxse29FiAcxryH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -114,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="ACİL SERVİS&amp;nbsp;&lt;div&gt;HEKİMİ&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="690.5" width="1240" height="120" as="geometry" />
+          <mxGeometry x="20" y="570.5" width="1240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="dNxyNK7c78bLwvsdeMH5-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +116,7 @@
           <mxGeometry x="260" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="&lt;h5&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;YATIŞ-TABURCU&lt;/font&gt;&lt;/h5&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="810.5" width="1240" height="198" as="geometry">
+          <mxGeometry x="20" y="690.5" width="1240" height="198" as="geometry">
             <mxRectangle x="20" y="900" width="592" height="27" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
