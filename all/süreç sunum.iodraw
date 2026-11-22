@@ -32,7 +32,7 @@
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="emiT89qxse29FiAcxryH-14" vertex="1">
-          <mxGeometry y="106" width="1240" height="155" as="geometry" />
+          <mxGeometry x="-14" y="133" width="1240" height="155" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-12" value="Hasta 18 Yaşından Büyük mü?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;direction=west;" parent="emiT89qxse29FiAcxryH-10" vertex="1">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
