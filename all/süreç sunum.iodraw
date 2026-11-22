@@ -21,14 +21,11 @@
         <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="1240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-4" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-10" target="HtgFwNyW6ljBgoX_-HjL-5" edge="1">
+        <mxCell id="HtgFwNyW6ljBgoX_-HjL-4" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="54" as="sourcePoint" />
-            <mxPoint x="247" y="31" as="targetPoint" />
+            <mxPoint x="238" y="41.16883116883116" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-5" value="Çocuk Acil Kaydı" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-10" vertex="1">
-          <mxGeometry x="238" y="13" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HtgFwNyW6ljBgoX_-HjL-6" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="emiT89qxse29FiAcxryH-10" target="HtgFwNyW6ljBgoX_-HjL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
