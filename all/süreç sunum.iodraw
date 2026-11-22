@@ -34,14 +34,8 @@
         <mxCell id="emiT89qxse29FiAcxryH-10" value="HASTA KAYIT&lt;div&gt;KABUL&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="1240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="emiT89qxse29FiAcxryH-10" source="emiT89qxse29FiAcxryH-12" target="HtgFwNyW6ljBgoX_-HjL-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-12" value="Hasta 18 Yaşından Büyük mü?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="emiT89qxse29FiAcxryH-10" vertex="1">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HtgFwNyW6ljBgoX_-HjL-1" value="Hasta 18 Yaşından Büyük mü?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="emiT89qxse29FiAcxryH-10">
-          <mxGeometry x="280" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="emiT89qxse29FiAcxryH-6" value="TRİYAJ" style="swimlane;html=1;startSize=40;horizontal=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="240" width="1240" height="120" as="geometry" />
